@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="center">Frontend Developer | Crafting Responsive and User-Friendly Websites</h4>
+<h4 align="center">Full Stack Developer | Crafting Responsive and User-Friendly Websites</h4>
 
 ###
 
